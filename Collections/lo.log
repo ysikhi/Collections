@@ -1,0 +1,10 @@
+2020-03-05 13:59:00 INFO  Creation :13 - 1 2 3 4 5 6 7 8 9 10
+2020-03-05 13:59:00 INFO  Creation :14 - How many elements do you want to add
+2020-03-05 13:59:21 INFO  Creation :16 - enter elements:
+2020-03-05 13:59:27 INFO  Creation :22 - Total list after adding elements:
+2020-03-05 13:59:27 INFO  Creation :23 - 1 2 3 4 5 6 7 8 9 10 5 6 89
+2020-03-05 13:59:27 INFO  Creation :24 - enter index to be removed
+2020-03-05 13:59:32 INFO  Creation :28 - Total list after removing elements:1 2 4 5 6 7 8 9 10 5 6 89
+2020-03-05 13:59:32 INFO  Creation :29 - value at index 0 is 1
+2020-03-05 13:59:32 INFO  Creation :30 - value at index 1 is:2
+2020-03-05 13:59:32 INFO  Creation :31 - total size12
